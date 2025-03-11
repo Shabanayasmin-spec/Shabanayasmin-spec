@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Shabana Yasmin
+-![Shabana Yasmin](https://github.com/Shabanayasmin-spec/Shabanayasmin-spec/blob/main/Shabana%20Yasmin%20.jpg)
 - 👀 I’m interested in data analyst
 - 🌱 I’m currently learning Data science and Machine learning
 - 💞️ I’m looking to collaborate on Data science projects, Power BI dashboards, Coding on MY SQL and Python and Machine learning models.
